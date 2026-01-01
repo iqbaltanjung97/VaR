@@ -1,0 +1,2 @@
+horizon,count,p95_up_bps,p99_up_bps,p05_down_bps,p01_down_bps,max_up_bps,max_down_bps
+monthly,117,25.0,50.0,-25.0,-25.0,50.0,-25.0
